@@ -1,0 +1,7 @@
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\obj\Debug\3. FactoryMethod.csprojAssemblyReference.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\obj\Debug\3. FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FactoryMethod\obj\Debug\FactoryMethod.pdb

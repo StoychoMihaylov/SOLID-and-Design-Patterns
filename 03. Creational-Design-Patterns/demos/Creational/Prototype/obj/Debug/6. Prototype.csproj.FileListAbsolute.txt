@@ -1,0 +1,6 @@
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Prototype\bin\Debug\Prototype.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Prototype\bin\Debug\Prototype.pdb
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Prototype\obj\Debug\6. Prototype.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Prototype\obj\Debug\Prototype.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Prototype\obj\Debug\Prototype.pdb

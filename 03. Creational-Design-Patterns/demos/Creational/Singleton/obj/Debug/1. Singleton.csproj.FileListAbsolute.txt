@@ -1,0 +1,7 @@
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\bin\Debug\Singleton.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\bin\Debug\Singleton.pdb
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\obj\Debug\1. Singleton.csprojAssemblyReference.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\obj\Debug\1. Singleton.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\obj\Debug\Singleton.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,7 @@
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\obj\Debug\2. SimpleFactory.csprojAssemblyReference.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\obj\Debug\2. SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\SimpleFactory\obj\Debug\SimpleFactory.pdb

@@ -1,0 +1,6 @@
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FluentInterface\bin\Debug\FluentInterface.exe.config
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FluentInterface\bin\Debug\FluentInterface.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FluentInterface\bin\Debug\FluentInterface.pdb
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FluentInterface\obj\Debug\7. FluentInterface.csproj.CoreCompileInputs.cache
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FluentInterface\obj\Debug\FluentInterface.exe
+C:\Users\stmih\source\repos\Design-Patterns-master\Topics\03. Creational-Design-Patterns\demos\Creational\FluentInterface\obj\Debug\FluentInterface.pdb
